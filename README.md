@@ -1,7 +1,7 @@
 # README
 
 <!-- CSV-TABLE:START -->
-_Auto-generated from `data/items.csv` at 2025-08-17 18:36:00Z UTC_
+_Auto-generated from `data/items.csv` at 2025-08-17 18:53:16Z UTC_
 
 ### Cloud
 
