@@ -1,22 +1,28 @@
 # README
 
 <!-- CSV-TABLE:START -->
-_Auto-generated from `data/items.csv` at 2025-08-17 18:54:30Z UTC_
+_Auto-generated from `data/items.csv` at 2025-08-17 20:42:18Z UTC_
+
+### Category
+
+| Title | Link | Comments |
+|---|---|---|
+| Title | [link](URL) | Comments |
 
 ### Cloud
 
 | Title | Link | Comments |
 |---|---|---|
-| Azure Well-Architected | [link](https://learn.microsoft.com/azure/architecture/framework/) | Best practices |
 | Terraform Registry | [link](https://registry.terraform.io) | Providers & modules |
 
-### Demo 1
+### Cloud Well-Architected Framework
 
 | Title | Link | Comments |
 |---|---|---|
-| Dummy | [link](./#) | Best Practices |
-| Dummy | [link](./#) | Best Practices |
-| Dummy | [link](./#) | Best Practices |
+| AWS | [link](https://aws.amazon.com/architecture/well-architected) |  |
+| Azure | [link](https://learn.microsoft.com/azure/architecture/framework) |  |
+| GCP | [link](https://cloud.google.com/architecture/framework) |  |
+| OCI | [link](https://www.oracle.com/cloud/architecture/well-architected) |  |
 
 ### Security
 
