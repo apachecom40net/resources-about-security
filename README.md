@@ -1,7 +1,7 @@
 # README
 
 <!-- CSV-TABLE:START -->
-_Auto-generated from `data/items.csv` at 2025-08-17 20:42:18Z UTC_
+_Auto-generated from `data/items.csv` at 2025-08-17 20:45:11Z UTC_
 
 ### Category
 
@@ -22,7 +22,7 @@ _Auto-generated from `data/items.csv` at 2025-08-17 20:42:18Z UTC_
 | AWS | [link](https://aws.amazon.com/architecture/well-architected) |  |
 | Azure | [link](https://learn.microsoft.com/azure/architecture/framework) |  |
 | GCP | [link](https://cloud.google.com/architecture/framework) |  |
-| OCI | [link](https://www.oracle.com/cloud/architecture/well-architected) |  |
+| OCI | [link](https://blogs.oracle.com/cloud-infrastructure/post/oci-wellarchitected-framework) |  |
 
 ### Security
 
