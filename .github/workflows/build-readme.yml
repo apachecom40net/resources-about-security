@@ -28,3 +28,14 @@ jobs:
         run: |
           python scripts/build_readme_from_csv.py
           cat README.md
+          
+      - name: Commit changes (if any)
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update README table from CSV"
+            git push
+          else
+            echo "No changes to commit."
