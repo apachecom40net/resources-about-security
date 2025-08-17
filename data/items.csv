@@ -2,7 +2,8 @@ Categories,Title,Link,Comments
 Security,HashiCorp Vault Docs,https://developer.hashicorp.com/vault,Great reference
 Cloud,Terraform Registry,https://registry.terraform.io,Providers & modules
 Security,OWASP Top 10,https://owasp.org/www-project-top-ten/,Essential reading
-Cloud,Azure Well-Architected,https://learn.microsoft.com/azure/architecture/framework/,Best practices
-Demo 1,Dummy,./#,Best Practices
-Demo 1,Dummy,./#,Best Practices
-Demo 1,Dummy,./#,Best Practices
+Category,Title,URL,Comments
+Cloud Well-Architected Framework,AWS,https://aws.amazon.com/architecture/well-architected,
+Cloud Well-Architected Framework,Azure,https://learn.microsoft.com/azure/architecture/framework,
+Cloud Well-Architected Framework,GCP,https://cloud.google.com/architecture/framework,
+Cloud Well-Architected Framework,OCI,https://www.oracle.com/cloud/architecture/well-architected,
