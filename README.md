@@ -1,7 +1,7 @@
 # README
 
 <!-- CSV-TABLE:START -->
-_Auto-generated from `data/items.csv` at 2025-08-17 14:00:00 UTC_
+_Auto-generated from `data/items.csv` at 2025-08-17 18:36:00Z UTC_
 
 ### Cloud
 
@@ -9,6 +9,22 @@ _Auto-generated from `data/items.csv` at 2025-08-17 14:00:00 UTC_
 |---|---|---|
 | Azure Well-Architected | [link](https://learn.microsoft.com/azure/architecture/framework/) | Best practices |
 | Terraform Registry | [link](https://registry.terraform.io) | Providers & modules |
+
+### Demo
+
+| Title | Link | Comments |
+|---|---|---|
+| Dummy | [link](./#) | Best Practices |
+| Dummy | [link](./#) | Best Practices |
+| Dummy | [link](./#) | Best Practices |
+| Dummy | [link](./#) | Best Practices |
+| Dummy | [link](./#) | Best Practices |
+| Dummy | [link](./#) | Best Practices |
+| Dummy | [link](./#) | Best Practices |
+| Dummy | [link](./#) | Best Practices |
+| Dummy | [link](./#) | Best Practices |
+| Dummy | [link](./#) | Best Practices |
+| Dummy | [link](./#) | Best Practices |
 
 ### Security
 
