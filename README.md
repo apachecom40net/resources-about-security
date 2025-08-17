@@ -1,7 +1,7 @@
 # README
 
 <!-- CSV-TABLE:START -->
-_Auto-generated from `data/items.csv` at 2025-08-17 20:45:11Z UTC_
+_Auto-generated from `data/items.csv` at 2025-08-17 20:48:02Z UTC_
 
 ### Category
 
@@ -14,6 +14,15 @@ _Auto-generated from `data/items.csv` at 2025-08-17 20:45:11Z UTC_
 | Title | Link | Comments |
 |---|---|---|
 | Terraform Registry | [link](https://registry.terraform.io) | Providers & modules |
+
+### Cloud Architecture Center
+
+| Title | Link | Comments |
+|---|---|---|
+| AWS | [link](https://aws.amazon.com/architecture) |  |
+| Azure | [link](https://learn.microsoft.com/azure/architecture) |  |
+| GCP | [link](https://cloud.google.com/architecture) |  |
+| OCI | [link](https://docs.oracle.com/en/solutions) |  |
 
 ### Cloud Well-Architected Framework
 
