@@ -27,4 +27,4 @@ jobs:
       - name: Generate README section from CSV
         run: |
           python scripts/build_readme_from_csv.py
-          cat Readme.MD
+          cat README.md
