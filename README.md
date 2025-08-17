@@ -1,7 +1,7 @@
 # README
 
 <!-- CSV-TABLE:START -->
-_Auto-generated from `data/items.csv` at 2025-08-17 20:52:21Z UTC_
+_Auto-generated from `data/items.csv` at 2025-08-17 21:00:41Z UTC_
 
 ### Category
 
@@ -37,11 +37,10 @@ _Auto-generated from `data/items.csv` at 2025-08-17 20:52:21Z UTC_
 
 | Title | Link | Comments |
 |---|---|---|
-| FortiADC OWASP Top 10 | [link](https://docs.fortinet.com/document/fortiadc/7.4.7/handbook/721088/owasp-top10) |  |
-| FortiADC OWASP Top 10 Monitoring | [link](https://docs.fortinet.com/document/fortiadc/7.1.3/handbook/151280/owasp-top-10) |  |
-| FortiWeb OWASP Top 10 Compliance (7.6.0 Admin Guide) | [link](https://docs.fortinet.com/document/fortiweb/7.6.0/administration-guide/897881/owasp-top-10-compliance) |  |
-| FortiWeb OWASP Top 10 Compliance (7.6.0) | [link](https://docs.fortinet.com/document/fortiweb/7.6.0/new-features/306725/owasp-top-10-compliance-dashboard) |  |
-| FortiWeb OWASP Top 10 Compliance (8.0.0) | [link](https://docs.fortinet.com/document/fortiweb/8.0.0/administration-guide/897881/owasp-top-10-compliance) |  |
+| WAF features against bot attacks | [link](https://docs.fortinet.com/document/fortiweb/latest/waf-concept-guide/648352/waf-features-against-bot-attacks) |  |
+| WAF features against OWASP Top 10 API security risks | [link](https://docs.fortinet.com/document/fortiweb/latest/waf-concept-guide/637600/waf-features-against-owasp-top-10-api-security-risks) |  |
+| WAF features against OWASP Top 10 Client-Side security risks | [link](https://docs.fortinet.com/document/fortiweb/latest/waf-concept-guide/93348/waf-features-against-owasp-top-10-client-side-security-risks) |  |
+| WAF features against OWASP Top 10 risks | [link](https://docs.fortinet.com/document/fortiweb/latest/waf-concept-guide/288888/waf-features-against-owasp-top-10-risks) |  |
 
 ### Security
 
